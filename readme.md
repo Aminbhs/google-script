@@ -1,11 +1,11 @@
 # Welcome
 
 ## Table of Contents
-+ [Autompletion](../autompletion)
++ [Autompletion](/tree/master/autompletion)
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
-+ [Contributing](../autocompletion)
++ [Contributing](../)
 
 ## About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
