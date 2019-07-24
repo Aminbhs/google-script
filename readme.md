@@ -1,12 +1,11 @@
 # Welcome
 
 ## Table of Contents
-+ [Autompletion](autompletion)
++ [Autompletion](https://github.com/Aminbhs/google-script/tree/master/autocompletion)
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
-+ [Contributing](/autompletion)
-+ [Contributing](https://github.com/Aminbhs/google-script/tree/master/autocompletion)
++ [Contributing](/)
 
 ## About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
