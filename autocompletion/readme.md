@@ -9,7 +9,7 @@ Documentation en cours de création. Ce script permet de faire de l'autocompleti
 + [Contact](#contact)
 
 ## À propos <a name = "about"></a>
-Ce script a était créé et diffusé via [La Newsletter du Marketing Automation](https://aminbhs.fr/automation-newsletter).
+Ce script a était créé et diffusé via La Newsletter du Marketing Automation.
 Ce script permet via des formules de récupérer des informations sur une entreprise via un nom ou une adresse email.
 Ce script utilise l'API de Clearbit, un outil d'enrichissement de contact. 
 Pour recevoir la vidéo compléte pour installer ce script [inscrivez-vous à la newsletter](https://aminbhs.fr/automation-newsletter)
