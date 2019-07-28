@@ -1,7 +1,6 @@
 # Autocompletion
 
 Ce script permet de faire de l'autocompletion gratuitement et directement depuis Google Sheets.  
-Pour reçevoir la vidéo d'installation compléte [inscrivez-vous à la newsletter.](https://aminbhs.fr/automation-newsletter/)
 
 ## Table of Contents
 + [About](#about)
