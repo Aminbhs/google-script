@@ -24,11 +24,13 @@ Pour installer ce script acéddez à l'éditeur de script dans grâce aux étape
 
 Une fois arrivé dans l'éditeur de script, installez
 
-1. Copiez les informations de la ligne 1 à 132 du fichier [autocompletion.gs](./autocompletion.gs)
+1. Donner un nom au projet par exemple GetCompanyInfos (optionnel)
+2. Renommer le fichier "code.gs" en "autocompletion.gs" (optionnel)
+2. Copiez les informations de la ligne 1 à 132 du fichier [autocompletion.gs](./autocompletion.gs)
+3. Coller les information dans le fichier "autocompletion.gs" de l'étape 2.
+4. En haut de l'écran, cliquez sur Fichier > Enregister
 
-```
-Give examples
-```
+
 
 ### Installing
 
