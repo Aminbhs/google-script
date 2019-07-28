@@ -1,12 +1,12 @@
 # Autocompletion
 
-Ce script permet de faire de l'autocompletion gratuitement et directement depuis Google Sheets.  
+Documentation en cours de création. Ce script permet de faire de l'autocompletion gratuitement et directement depuis Google Sheets.  
 
 ## Table of Contents
-+ [About](#about)
-+ [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
++ [À propos](#about)
++ [Installtion](#installation)
++ [Utilisation](#Utilisation)
++ [Contact](#contact)
 
 ## À propos <a name = "about"></a>
 Ce script a était créé et diffusé via [La Newsletter du Marketing Automation](https://aminbhs.fr/automation-newsletter).
@@ -14,7 +14,7 @@ Ce script permet via des formules de récupérer des informations sur une entrep
 Ce script utilise l'API de Clearbit, un outil d'enrichissement de contact. 
 Pour recevoir la vidéo compléte pour installer ce script [inscrivez-vous à la newsletter](https://aminbhs.fr/automation-newsletter)
 
-## Getting Started <a name = "getting_started"></a>
+## Installation <a name = "installation"></a>
 Pour installer ce script acéddez à l'éditeur de script dans grâce aux étapes suivantes:  
 1. Sur votre ordinateur, ouvrez une feuille de calcul en accédant à <a href="https://sheets.google.com" target="_blank">sheets.google.com</a>.  
 2. En haut de l'écran, cliquez sur Outils > Éditeur de scripts  
@@ -32,24 +32,23 @@ Une fois arrivé dans l'éditeur de script, installez
 
 
 
-### Installing
+## Utilisation
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Vous pouvez maintenant utiliser les formules suivantes dans vos cellules
 
 ```
-Give the example
+=GetCompanyName()
 ```
 
-And repeat
-
 ```
-until finished
+=GetCompanyDomain()
 ```
 
+```
+=GetCompanyLogoUrl()
+```
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+## Contact <a name = "contact"></a>
 
 Add notes about how to use the system.
