@@ -1,5 +1,7 @@
 # Autocompletion
 
+Ce script permet de faire de l'autocompletion gratuitement et directement depuis Google Sheets.
+
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
