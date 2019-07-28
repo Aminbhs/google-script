@@ -15,9 +15,9 @@ Ce script utilise l'API de Clearbit, un outil d'enrichissement de contact.
 Pour recevoir la vidéo compléte pour installer ce script
 
 ## Getting Started <a name = "getting_started"></a>
-Pour installer ce script acéddez à l'éditeur de script dans grâce aux étapes suivantes:
-Sur votre ordinateur, ouvrez une feuille de calcul en accédant à sheets.google.com.
-En haut de l'écran, cliquez sur Outils > Éditeur de scripts
+Pour installer ce script acéddez à l'éditeur de script dans grâce aux étapes suivantes:  
+1.Sur votre ordinateur, ouvrez une feuille de calcul en accédant à sheets.google.com.  
+2.En haut de l'écran, cliquez sur Outils > Éditeur de scripts  
 
 
 
