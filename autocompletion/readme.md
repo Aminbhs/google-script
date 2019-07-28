@@ -24,7 +24,7 @@ Pour installer ce script acéddez à l'éditeur de script dans grâce aux étape
 
 Une fois arrivé dans l'éditeur de script, installez
 
-1. Copiez les les informations de la ligne 1 à XX du fichier [automation.gs](../automation.gs)
+1. Copiez les informations de la ligne 1 à 132 du fichier [autocompletion.gs](../autocompletion.gs)
 
 ```
 Give examples
