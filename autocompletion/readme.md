@@ -4,7 +4,7 @@ Documentation en cours de création. Ce script permet de faire de l'autocompleti
 
 ## Table of Contents
 + [À propos](#about)
-+ [Installtion](#installation)
++ [Installation](#installation)
 + [Utilisation](#Utilisation)
 + [Contact](#contact)
 
@@ -26,9 +26,9 @@ Une fois arrivé dans l'éditeur de script, installez
 
 1. Donner un nom au projet par exemple GetCompanyInfos (optionnel)
 2. Renommer le fichier "code.gs" en "autocompletion.gs" (optionnel)
-2. Copiez les informations de la ligne 1 à 132 du fichier [autocompletion.gs](./autocompletion.gs)
-3. Coller les information dans le fichier "autocompletion.gs" de l'étape 2.
-4. En haut de l'écran, cliquez sur Fichier > Enregister
+3. Copiez les informations de la ligne 1 à 132 du fichier [autocompletion.gs](./autocompletion.gs)
+4. Coller les information dans le fichier "autocompletion.gs" de l'étape 2.
+5. En haut de l'écran, cliquez sur Fichier > Enregister
 
 
 
@@ -51,4 +51,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Contact <a name = "contact"></a>
 
-Add notes about how to use the system.
+Pour toutes question n'hésitez pas à me contacter via le chat sur [aminbhs.fr](https://aminbhs.fr/). ou a hello at aminbhs.fr
