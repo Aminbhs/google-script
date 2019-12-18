@@ -12,7 +12,8 @@ Documentation en cours de création. Ce script permet de faire de l'autocompleti
 Ce script a était créé et diffusé via La Newsletter du Marketing Automation.
 Ce script permet via des formules de récupérer des informations sur une entreprise via un nom ou une adresse email.
 Ce script utilise l'API de Clearbit, un outil d'enrichissement de contact. 
-Pour recevoir la vidéo compléte pour installer ce script [inscrivez-vous à la newsletter](https://aminbhs.fr/automation-newsletter)
+Voici  [la vidéo pour installer ce script](https://www.youtube.com/watch?v=HJj62eKrAe4) 
+[Pour s'inscrire à la newsletter](https://aminbhs.fr/automation-newsletter)
 
 ## Installation <a name = "installation"></a>
 Pour installer ce script acéddez à l'éditeur de script dans grâce aux étapes suivantes:  
